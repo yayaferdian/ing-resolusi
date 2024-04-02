@@ -2,3 +2,4 @@ ING RESOLUSI
 -Konsisten belajar tentang web programing
 -Membuat projek sederhana dari ilmu yang telah dipelajari
 -Belajar tentang github
+-membuat web trainer iot
